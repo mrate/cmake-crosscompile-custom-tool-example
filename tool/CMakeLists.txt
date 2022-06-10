@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18.1)
 
-project(somnium_tool LANGUAGES C CXX)
+project(test_tool LANGUAGES C CXX)
 
 add_executable(
 	${PROJECT_NAME}
